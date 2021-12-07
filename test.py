@@ -1,3 +1,4 @@
-a,b = 6,7
+a,b,c = 6,7,10
 print(a)
 print(b)
+print(c)
